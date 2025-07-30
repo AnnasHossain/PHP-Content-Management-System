@@ -9,7 +9,9 @@ Hier können Inhalte bequem hochgeladen, bearbeitet und verwaltet werden.
 - ✏️ **Bearbeiten:** Inhalte über das Bearbeiten "Edit" aktualisieren.
 - 🗑️ **Löschen:** Einträge mit einem Klick entfernen.
 - 📂 **Adminbereich:**  
-  Zugriff über: `https://deinedomain/dashboard/dashboard.php`
+  Zugriff über: `https://ah-php-cms.infinityfreeapp.com/dashboard/dashboard.php`
+- 🧑‍💻 **Nutzerbereich:**
+  Besuchen: `https://ah-php-cms.infinityfreeapp.com`
 
 ## Hinweise
 
