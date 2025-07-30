@@ -1,0 +1,39 @@
+.image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image-gallery-item {
+    box-sizing: border-box;
+    flex: 0 0 50%;
+    margin-top: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.image-gallery-image {
+    width: 100%;
+    aspect-ratio: unset;
+    height: auto;
+    max-height: 300px;
+    object-fit: contain;
+    box-shadow: 0 0.25rem 0.25rem 0 rgba(0, 0, 0, 0.2);
+}
+
+input[type="submit"].button-as-link,
+button.button-as-link {
+    -webkit-appearance: none;
+    appearance: none;
+    padding: 0;
+    margin: 0;
+    display: inline;
+    text-decoration: underline;
+    background-color: transparent;
+    border: 0 solid transparent;
+    color: #0D47A1; 
+    cursor: pointer;
+    font-size: inherit;
+    border: none;
+    width: auto;
+    border-radius: 0;
+}
